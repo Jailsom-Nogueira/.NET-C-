@@ -16,3 +16,7 @@ namespace DigitalInnovationOne
     }
   }
 }
+// dotnet new console -n nomeDoProjeto
+// dotnet build
+// dotnet run
+// -h para ajuda
